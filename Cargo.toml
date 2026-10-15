@@ -1,0 +1,9 @@
+[package]
+name = "ashley"
+version = "0.1.0"
+edition = "2021"
+description = "Type-safe SQL query builder for Rust"
+license = "MIT"
+readme = "README.md"
+
+[dependencies]
